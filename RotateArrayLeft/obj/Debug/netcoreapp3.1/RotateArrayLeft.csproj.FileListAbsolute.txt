@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\bin\Debug\netcoreapp3.1\RotateArrayLeft.exe
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\bin\Debug\netcoreapp3.1\RotateArrayLeft.deps.json
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\bin\Debug\netcoreapp3.1\RotateArrayLeft.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\bin\Debug\netcoreapp3.1\RotateArrayLeft.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\bin\Debug\netcoreapp3.1\RotateArrayLeft.dll
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\bin\Debug\netcoreapp3.1\RotateArrayLeft.pdb
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\obj\Debug\netcoreapp3.1\RotateArrayLeft.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\obj\Debug\netcoreapp3.1\RotateArrayLeft.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\obj\Debug\netcoreapp3.1\RotateArrayLeft.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\obj\Debug\netcoreapp3.1\RotateArrayLeft.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\obj\Debug\netcoreapp3.1\RotateArrayLeft.dll
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\obj\Debug\netcoreapp3.1\RotateArrayLeft.pdb
+C:\Users\monisha.khapali\source\repos\RotateArrayLeft\RotateArrayLeft\obj\Debug\netcoreapp3.1\RotateArrayLeft.genruntimeconfig.cache
